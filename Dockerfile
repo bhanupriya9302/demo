@@ -1,5 +1,5 @@
 FROM tomcat:9-jre9
 
 # Maintainer 
-MAINTAINER "bhanupriya9302@gmail.com" 
-COPY ./amazon /usr/local/tomcat/webapps
+MAINTAINER "jayalakshmi9302@gmail.com" 
+COPY ./amazon.war /usr/local/tomcat/webapps
